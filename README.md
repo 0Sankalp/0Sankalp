@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing an MCA from GL Bajaj College. <br>I am working with JavaScript and actively practicing problem-solving and Data Structures & Algorithms.<br>Alongside my technical interests, I am a sketch artist, which enhances my creativity and attention to detail. <br>I am committed to continuous learning and professional growth.<br>
+I'm currently pursuing an MCA from GL Bajaj College. <br>I am working with JavaScript and actively practicing problem-solving and Data Structures & Algorithms.<br>Alongside my technical interests, I am a sketch artist, which enhances my creativity and attention to detail. <br>I am committed to continuous learning and professional growth.<br>
 
 
 ## 🌐 Socials:
